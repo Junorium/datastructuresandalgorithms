@@ -1,2 +1,0 @@
-# datastructuresandalgorithms
-Based on course
