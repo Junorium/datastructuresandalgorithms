@@ -15,3 +15,9 @@ def merge_sort(list):
   right = merge_sort(right_half)
 
   return merge(left, right) # define merge function 
+
+def split(list):
+  """
+  Divide list given containing more than one element
+  """
+  if list
